@@ -1,0 +1,8 @@
+.vscode/
+*.zip
+**/node_modules/
+**/.env
+**/.env.local
+*.log
+frontend/dist/
+backend/dist/
